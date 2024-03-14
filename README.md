@@ -1,8 +1,7 @@
 # React-ace-ing
-#This is an ONLY UI made by using REACT.
-#It does not support any backend services as you prohibited the use of Node and Express and I do not know Django Rest framework and MySQL.
-#I tried my best to fulfill whatever was asked in the assessment to the best of my ability.
-#I felt very restricted in only React.
+This is an ONLY UI made by using REACT and React-Router-DOM
+It does not support any backend services as you prohibited the use of Node and Express and I do not know Django Rest framework and MySQL.
+I tried my best to fulfill whatever was asked in the assessment to the best of my ability.
 Following are the screenshots of the assessment:
 ![Screenshot (5)](https://github.com/AdarshGT33/React-ace-ing/assets/144033708/fc2ad485-11e9-43ad-ad0e-07567b9111dd)
 ![Screenshot (7)](https://github.com/AdarshGT33/React-ace-ing/assets/144033708/749a2f03-f3fb-4ca4-acc1-e6d59ea6bd66)
